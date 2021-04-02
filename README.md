@@ -4,5 +4,7 @@ A full stack developer that loves all things Typescript. Working to make learnin
 
 - 🏄‍♂️ I’m currently working on a personalised surf forecasting app 🌊
 - 🌱 I’m currently learning Go!
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/oliver-morrison-6b190971/) & [email 📮] (mailto:olivercharlesmorrison@gmail.com) 
+- 📫 How to reach me: 
+-   [Linkedin](https://www.linkedin.com/in/oliver-morrison-6b190971/)
+-   [email 📮] (mailto:olivercharlesmorrison@gmail.com) 
 - ⚡ Fun fact: Orangutans sleep better with blankets 🦧
