@@ -22,6 +22,8 @@ A full stack developer that loves all things Typescript, Nest and React. Working
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/mongoDb-339933?logo=mongoDB&logoColor=white&style=for-the-badge" />
   <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+  <img alt="Jest" src="https://img.shields.io/badge/jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
+  <img alt="Cypress" src="https://img.shields.io/badge/cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />
   <img alt="Redux" src="https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
